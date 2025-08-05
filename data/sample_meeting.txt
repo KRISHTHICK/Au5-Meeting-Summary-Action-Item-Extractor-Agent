@@ -1,0 +1,9 @@
+Meeting Title: Q3 Product Planning
+Date: August 1, 2025
+Participants: Alice, Bob, Charlie, Dana
+
+Alice: Let's begin by discussing the Q3 roadmap. We need to finalize the features by next Friday.
+Bob: Sure, I’ll handle the feature prioritization document.
+Charlie: I’ll check integration feasibility by next Monday.
+Dana: I’ll prepare the customer feedback summary.
+...
